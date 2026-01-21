@@ -1,8 +1,8 @@
-## REBGV Monthly Market Reports (Combined PDF Extracts)
+## Greater Vancouver Realtors Monthly Market Reports (Combined PDF Extracts)
 
-**Source:** Real Estate Board of Greater Vancouver  
-**URL:** https://www.rebgv.org/  
-**Publisher:** REBGV  
+**Source:** Greater Vancouver REALTORS® 
+**URL:** [https://www.rebgv.org/](https://www.gvrealtors.ca/market-watch/monthly-market-report.html)  
+**Publisher:** Greater Vancouver REALTORS®   
 **Update Frequency:** Monthly  
 **Geographic Coverage:** Greater Vancouver  
 **Time Coverage:** 2019–2024  
